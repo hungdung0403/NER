@@ -2,7 +2,7 @@ Named entity recognition (NER) — sometimes referred to as entity chunking, ext
 
 NER is a form of natural language processing (NLP), a subfield of artificial intelligence. NLP is concerned with computers processing and analyzing natural language, i.e., any language that has developed naturally, rather than artificially, such as with computer coding languages.
 
-In this article, we use several machine learning and deep learning models toNER problem processing for CrossNER dataset with five fieldsin the data set. The results obtained on the Bi-LSTM models,Bi-Gru, Bi-LSTM + CNN, Bi-Gru + CNN, TF-XML-RoBERTa...
+In this article, we use several machine learning and deep learning models toNER problem processing for CrossNER dataset with five fieldsin the dataset. The results obtained on the Bi-LSTM models,Bi-Gru, Bi-LSTM + CNN, Bi-Gru + CNN, TF-XML-RoBERTa...
 From there, make comments and evaluations for the dataset and the algorithm is used.
 
 You can download the original author's data from the following link: https://github.com/zliucr/CrossNER/tree/main/ner_data
